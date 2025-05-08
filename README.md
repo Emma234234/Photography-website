@@ -1,21 +1,22 @@
 # Photography website
-Application that generates your akan name, 2025
+ A beautifully crafted, responsive website designed to showcase the artistry of wedding photography. 2025
 
 By Emmaculate Mumbua
 
-Description
-A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+# Description
+This repository contains the code for a wedding photography website, designed to showcase a photographer’s portfolio, services, and client galleries.
+This project offers an easy-to-navigate, visually stunning experience for prospective clients to explore your work, learn about your services, and get in touch with you for bookings.
 
-Link to live site
-https://emma234234.github.io/akan-name-generator/
+# Link to live site
+https://emma234234.github.io/Photography-website/
 
-Languages Used
-HTML
+# Languages Used
+HTML: Structure and content of the website.
 
-CSS
+CSS: Styling and design.
 
-Contact details
+# Contact details
 if you run into any issues or have questions, ideas or concerns contact me through my email: immamumbua9@gmail.com.
 
-License
+# License
 MIT Copyright (c) 2025
